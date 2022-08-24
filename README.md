@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Learning how to code
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Reach me on GitHub
 
 <!---
 AkmidHimself/AkmidHimself is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
